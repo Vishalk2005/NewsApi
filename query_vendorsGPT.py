@@ -59,6 +59,8 @@ def main():
     with open("vendor_news.json", "w") as out:
         json.dump(all_news, out, indent=2)
 
+    #Test Comment
+
     print("\n✅ Done. Results saved to vendor_news.json")
 
 if __name__ == "__main__":
