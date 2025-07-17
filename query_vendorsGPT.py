@@ -60,6 +60,7 @@ def main():
         json.dump(all_news, out, indent=2)
 
     #Test Comment
+    #Test Comment 2
 
     print("\n✅ Done. Results saved to vendor_news.json")
 
